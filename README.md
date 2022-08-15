@@ -97,3 +97,23 @@ Every morning after the stand-up with the instructor, the team will have its own
 - Each day's work will be a branch off of the dev branch.
 - From dev: git checkout -b <that day's feature>.
 - Merges to dev will, in general, be performed around lunch time every day and before logging off for the night.
+
+### Project Planning
+
+[Project Summary](https://docs.google.com/document/d/1mJnaZ_jRQSlwEz6j8QmTB3I2H22zZU46hN369N7PO8g/edit?usp=sharing)
+[Project Planning](https://github.com/orgs/Team-KEG/projects/2)
+
+### Wireframe
+
+![wireframe 1](./assets/homepage.png)
+![wireframe 2](./assets/main-library.png)
+![wireframe 3](./assets/show-pages.png)
+![wireframe 4](./assets/user-account.png)
+
+### Database Schema
+
+![db-schema](./assets/db-schema.png)
+
+### UML
+
+![UML](./assets/uml.png)
